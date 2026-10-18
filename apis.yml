@@ -32,6 +32,11 @@ description: >-
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/qos/refs/heads/main/apis.yml
 tags:
+  - Quality of Service
+  - Networking
+  - Traffic Management
+  - Performance
+tags_raw:
   - QoS
   - Quality of Service
   - Networking
